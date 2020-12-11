@@ -1,0 +1,475 @@
+{
+  "markers": [
+    {
+      "lat": 43.7274628,
+      "lng": -79.2526016,
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-01-06, at Kennedy Park"
+    },
+    {
+      "lat": 43.7228546,
+      "lng": -79.5599365,  
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-01-09, at Rexdale-Kipling"
+    },
+    {
+      "lat": 43.7104797,
+      "lng": -79.2715836,   
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-01-08, at Clairlea-Birchmount"
+    },
+    {
+      "lat": 43.7695808,
+      "lng": -79.2872467,  
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-01-12, at Dorset Park"
+    },
+    {
+      "lat": 43.6706047,
+      "lng": -79.4880753, 
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-01-24, at Rockcliffe-Smythe"
+    },
+    {
+      "lat": 43.6556168,
+      "lng": -79.3644638,  
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-02-08, at Regent Park"
+    },
+    {
+      "lat": 43.7664986,
+      "lng": -79.1948929, 
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-02-12, at West Hill"
+    },
+    {
+      "lat": 43.7169495,
+      "lng": -79.5559845,  
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-02-13, at Rexdale-Kipling"
+    },
+    {
+      "lat": 43.6236954,
+      "lng": -79.4789734,  
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-02-10, at Mimico (includes Humber Bay Shores)"
+    },
+    {
+      "lat": 43.7544174,
+      "lng": -79.2509308,   
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-09-03, at Bendale"
+    },
+    {
+      "lat": 43.7349625,
+      "lng": -79.5803757,    
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-02-24, at Mount Olive-Silverstone-Jamestown"
+    },
+    {
+      "lat": 43.711132,
+      "lng": -79.3912277,    
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-03-04, at Mount Pleasant West"
+    },
+    {
+      "lat": 43.7381744,
+      "lng": -79.4858627,    
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-03-11, at Downsview-Roding-CFB"
+    },
+    {
+      "lat": 43.6687431,
+      "lng": -79.4580154,     
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-03-13, at Weston-Pellam Park"
+    },
+    {
+      "lat": 43.67836,
+      "lng": -79.5542603,      
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-03-18, at Willowridge-Martingrove-Richview"
+    },
+    {
+      "lat": 43.6587143,
+      "lng": -79.4496155,     
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-03-19, at Dovercourt-Wallace Emerson-Junction"
+    },
+    {
+      "lat": 43.7046013,
+      "lng": -79.4085159,     
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-03-08, at Yonge-Eglinton"
+    },
+    {
+      "lat": 43.6486511,
+      "lng": -79.3802795,      
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-04-10, at Bay Street Corridor"
+    },
+    {
+      "lat": 43.688652,
+      "lng": -79.4779205,       
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-04-15, at Keelesdale-Eglinton West"
+    },
+    {
+      "lat": 43.6915436,
+      "lng": -79.4389038,     
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-04-21, at Oakwood Village"
+    },
+    {
+      "lat": 43.7743835,
+      "lng": -79.2113571,     
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-04-28, at Morningside"
+    },
+    {
+      "lat": 43.7340126,
+      "lng": -79.5903702,      
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-05-01, at West Humber-Clairville"
+    },
+    {
+      "lat": 43.6558037,
+      "lng": -79.5793762,       
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-04-28, at Eringate-Centennial-West Deane"
+    },
+    {
+      "lat": 43.7605896,
+      "lng": -79.5660629,       
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-05-03, at Humber Summit"
+    },
+    {
+      "lat": 43.7462997,
+      "lng": -79.1987457,         
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-05-05, at Guildwood"
+    },
+    {
+      "lat": 43.6640549,
+      "lng": -79.4317169,          
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-05-21, at Dovercourt-Wallace Emerson-Junction"
+    },
+    {
+      "lat": 43.6684799,
+      "lng": -79.387413,           
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-06-08, at Bay Street Corridor"
+    },
+    {
+      "lat": 43.6537323,
+      "lng": -79.3732529,           
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-06-06, at Moss Park"
+    },
+    {
+      "lat": 43.7648697,
+      "lng": -79.1848831,            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-06-27, at West Hill"
+    },
+     {
+      "lat": 43.6465149,
+      "lng": -79.3939362,            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-06-30, at Waterfront Communities-The Island"
+    },
+    {
+      "lat": 43.6888924,
+      "lng": -79.504005400000011,              
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-06-29, at Mount Dennis (115)"
+    },
+    {
+      "lat": 43.6888924,
+      "lng": -79.504005400000011,            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-06-29, at Mount Dennis (115)"
+    },
+    {
+      "lat": 43.7593689,
+      "lng": -79.3209229,             
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-06-27, at Parkwoods-Donalda (115)"
+    },
+    {
+      "lat": 43.6545258,
+      "lng": -79.3694611,           
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-07-01, at Moss Park"
+    },
+    {
+      "lat": 43.6604919,
+      "lng": -79.4324341,           
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-07-01, at Dovercourt-Wallace Emerson-Junction"
+    },
+    {
+      "lat": 43.715744,
+      "lng": -79.5047607,            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-08-02, at Rustic"
+    },
+    {
+      "lat": 43.6813011,
+      "lng": -79.4277039,            
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-08-07, at Wychwood"
+    },
+    {
+      "lat": 43.7166748,
+      "lng": -79.2992859,             
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-08-09, at Victoria Village"
+    },
+    {
+      "lat": 43.6489487,
+      "lng": -79.4500732,             
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-08-16, at Roncesvalles"
+    },
+    {
+      "lat": 43.6920547,
+      "lng": -79.5027771,             
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-08-21, at Mount Dennis"
+    },
+    {
+      "lat": 43.7140923,
+      "lng": -79.5315094,             
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-08-19, at Pelmo Park-Humberlea"
+    },
+    {
+      "lat": 43.7600021,
+      "lng": -79.5580597,              
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-08-25, at Humber Summit"
+    },
+    {
+      "lat": 43.7212448,
+      "lng": -79.5062637,               
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-09-04, at Downsview-Roding-CFB"
+    },
+    {
+      "lat": 43.7857628,
+      "lng": -79.2894592,                
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-04-03, at Tam O'Shanter-Sullivan"
+    },
+    {
+      "lat": 43.7906342,
+      "lng": -79.1747437,                 
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-09-11, at Highland Creek"
+    },
+    {
+      "lat": 43.7069855,
+      "lng": -79.4531784,                 
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-09-16, at Yorkdale-Glen Park"
+    },
+    {
+      "lat": 43.8207169,
+      "lng": -79.2604065,                  
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-09-19, at Milliken"
+    },
+    {
+      "lat": 43.7715759,
+      "lng": -79.2859497,                   
+      "title": "Homicides in Toronto",
+      "description": "OTHER - 2019-09-22, at Dorset Park"
+    },
+    {
+      "lat": 43.6502495,
+      "lng": -79.5675049,                    
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-09-24, at Etobicoke West Mall"
+    },
+    {
+      "lat": 43.6675644,
+      "lng": -79.385688800000011,                    
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-09-24, at Church-Yonge Corridor"
+    },
+    {
+      "lat": 43.7559433,
+      "lng": -79.5902252,                     
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-09-29, at Mount Olive-Silverstone-Jamestown"
+    },
+    {
+      "lat": 43.7492294,
+      "lng": -79.5104523,                      
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-10-01, at Glenfield-Jane Heights"
+    },
+    {
+      "lat": 43.7492294,
+      "lng": -79.5104523,                      
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-10-01, at Glenfield-Jane Heights"
+    },
+    {
+      "lat": 43.6476631,
+      "lng": -79.3848038,                       
+      "title": "Homicides in Toronto",
+      "description": "STABBING - 2019-10-02, at Bay Street Corridor"
+    },
+    {
+      "lat": 43.6982269,
+      "lng": -79.3162689,                        
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-10-07, at Woodbine-Lumsden"
+    },
+    {
+      "lat": 43.7368889,
+      "lng": -79.5875931,                         
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-10-14, at Mount Olive-Silverstone-Jamestown"
+    },
+    {
+      "lat": 43.8111458,
+      "lng": -79.3581161,                          
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-10-17, at Hillcrest Village"
+    },
+    {
+      "lat": 43.6378784,
+      "lng": -79.4706421,                           
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-10-19, at High Park-Swansea"
+    },
+    {
+      "lat": 43.6994972,
+      "lng": -79.3908768,                            
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-10-26, at Mount Pleasant West"
+    },
+    {
+      "lat": 43.66922,
+      "lng": -79.4036102,                             
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-10-31, at Annex"
+    },
+    {
+      "lat": 43.6142197,
+      "lng": -79.5561523,                            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-11-04, at Islington-City Centre West"
+    },
+    {
+      "lat": 43.6943817,
+      "lng": -79.3006058,                            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-11-05, at Taylor-Massey"
+    },
+    {
+      "lat": 43.7044754,
+      "lng": -79.5042496,                            
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-11-07, at Weston"
+    },
+    {
+      "lat": 43.6914864,
+      "lng": -79.4403229,                             
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-11-16, at Oakwood Village"
+    },
+    {
+      "lat": 43.7447929,
+      "lng": -79.2447205,                              
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-11-23, at Eglinton East"
+    },
+    {
+      "lat": 43.7533379,
+      "lng": -79.5427094,                              
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-12-07, at Humber Summit"
+    },
+    {
+      "lat": 43.7912979,
+      "lng": -79.3691254,                               
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING - 2019-12-11, at Bayview Woods-Steeles"
+    },
+    {
+      "lat": 43.7233887,
+      "lng": -79.6042252,                                
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN - 2019-12-11, at West Humber-Clairville"
+    },
+    {
+      "lat": 43.7285652,
+      "lng": -79.4825287,                                 
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING- 2019-12-15, at Downsview-Roding-CFB"
+    },
+    {
+      "lat": 43.7471123,
+      "lng": -79.3017731,                                
+      "title": "Homicides in Toronto",
+      "description": "STABBING- 2019-12-10, at Wexford\/Maryvale"
+    },
+    {
+      "lat": 43.6983452,
+      "lng": -79.5113144,                            
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN- 2019-12-20, at Wexford\/Maryvale"
+    },
+    {
+      "lat": 43.662262,
+      "lng": -79.4060364,                             
+      "title": "Homicides in Toronto",
+      "description": "UNKNOWN- 2019-12-22, at University"
+    },
+    {
+      "lat": 43.6387367,
+      "lng": -79.4366074,                              
+      "title": "Homicides in Toronto",
+      "description": "STABBING- 2019-12-23, at South Parkdale"
+    },
+    {
+      "lat": 43.6582947,
+      "lng": -79.3710327,                               
+      "title": "Homicides in Toronto",
+      "description": "STABBING- 2019-12-22, at Moss Park"
+    },
+    {
+      "lat": 43.63965610000001,
+      "lng": -79.5629349,                                
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING- 2019-12-22, at Etobicoke West Mall"
+    },
+    {
+      "lat": 43.7416115,
+      "lng": -79.2397308,                               
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING- 2019-12-29, at Eglinton East"
+    },
+    {
+      "lat": 43.8109322,
+      "lng": -79.2271347,                                
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING- 2019-12-31, at Malvern"
+    },
+    {
+      "lat": 43.783596,
+      "lng": -79.2993469,                                 
+      "title": "Homicides in Toronto",
+      "description": "SHOOTING- 2019-12-19, at Tam O'Shanter-Sullivan"
+   }
+  ]
+}
+
+
+
